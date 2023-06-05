@@ -1,3 +1,5 @@
 ### Bienvenido a mi perfil de GitHub
 
-- 💨 Actualmente trabajando en: SistemaAlquilarAuto
+- Desarrollador de software en proceso.
+
+- Actualmente trabajando en: SistemaAlquilarAuto
