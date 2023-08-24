@@ -2,4 +2,4 @@
 
 - Desarrollador de software en proceso.
 
-- Actualmente trabajando en: SistemaAlquilarAuto y ControlDeAgendamientoEHistorialDeUsuario
+- Actualmente trabajando en React, React Native y Python
