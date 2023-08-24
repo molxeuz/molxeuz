@@ -1,5 +1,5 @@
 ### Bienvenido a mi perfil de GitHub
 
-- Desarrollador de software en proceso.
+- Desarrollador de software en proceso
 
-- Actualmente trabajando en React, React Native y Python
+- Actualmente trabajando en React Native y Python
