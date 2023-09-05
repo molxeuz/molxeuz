@@ -6,6 +6,6 @@ Explora mis repositorios para ver mis trabajos durante la tecnica de asistente e
 
 ## 📫 Sigueme en mis redes sociales
 
-- ☄️ Twitter: [molxeuz](https://twitter.com/molxeuz)
-- 🪐 Instagran: [molxeuz](https://www.instagram.com/molxeuz/)
-- 🌌 LinkedIn: [Mateo Molina Gonzalez](www.linkedin.com/in/molxeuz)
+- 🃏 Twitter: [molxeuz](https://twitter.com/molxeuz)
+- 🎴 Instagran: [molxeuz](https://www.instagram.com/molxeuz/)
+- 🀄 LinkedIn: [Mateo Molina Gonzalez](www.linkedin.com/in/molxeuz)
