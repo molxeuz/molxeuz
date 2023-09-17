@@ -1,11 +1,7 @@
-# Hola, mi nombre es Mateo Molina Gonzalez
+## 👋 Bienvenidos al perfil
 
-## 👋 Bienvenidos a mi perfil
+Explora los repositorios para ver los trabajos durante la tecnica de asistente en desarrollo de software
 
-Explora mis repositorios para ver mis trabajos durante la tecnica de asistente en desarrollo de software
+## 📫 Siguime en:
 
-## 📫 Sigueme en mis redes sociales
-
-- 🃏 Twitter: [molxeuz](https://twitter.com/molxeuz)
 - 🎴 Instagram: [molxeuz](https://www.instagram.com/molxeuz/)
-- 🀄 LinkedIn: [Mateo Molina Gonzalez](www.linkedin.com/in/molxeuz)
