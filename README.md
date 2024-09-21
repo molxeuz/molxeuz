@@ -1,3 +1,3 @@
-## 👋 Bienvenidos al perfil
+## 👋 Hola, que mas socio!
 
-Mira los repositorios de los trabajos hechos durante la tecnica de asistente en desarrollo de software
+Mira los repositorios que he hecho
