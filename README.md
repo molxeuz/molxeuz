@@ -1,3 +1,3 @@
-## 👋 Hola, que mas socio!
+## 👋 Hola, soy X y soy no tu asistente personal 🤖
 
-Mira los repositorios que he hecho
+Mira los repositorios que he hecho ome ome! 👿
