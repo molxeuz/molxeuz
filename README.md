@@ -19,7 +19,7 @@ Un proyecto innovador que busca ofrecer servicios tecnológicos únicos.
 ### 3. **Personal Curriculum Vitae**
 Una pagina web personal que se estara actualizando.
 
-![PersonalWebPage](https://github.com/molxeuz/PersonalCurriculumVitae)
+[![PersonalWebPage](https://img.shields.io/badge/GitHub-molxeuz-black?style=flat&logo=github)](https://github.com/molxeuz/PersonalCurriculumVitae)
 
 ---
 
