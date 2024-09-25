@@ -9,12 +9,12 @@
 ### 1. **MoodScape**
 Una aplicación interactiva que genera paisajes virtuales según el estado de ánimo del usuario. Utiliza `tkinter` para la interfaz gráfica.
 
-![MoodScape](https://img.shields.io/badge/GitHub-MoodScape-Python-brightgreen?style=flat&logo=github)
+![MoodScape](https://img.shields.io/badge/MoodScape-Python-brightgreen?style=flat&logo=github)
 
 ### 2. **El Gran Human Program Interpreter**
 Un proyecto innovador que busca ofrecer servicios tecnológicos únicos.
 
-![HPI](https://img.shields.io/badge/GitHub-HPI-Innovación-blue?style=flat&logo=github)
+![HPI](https://img.shields.io/badge/HPI-Innovación-blue?style=flat&logo=github)
 
 ### 3. **Personal Curriculum Vitae**
 Una pagina web personal que se estara actualizando.
