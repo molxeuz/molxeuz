@@ -10,6 +10,18 @@
 
 ---
 
+## Contador de visitas
+
+![Visitas a mi perfil](https://visitor-badge.laobi.icu/badge?page_id=molxeuz.molxeuz)
+
+---
+
+## Mis trofeos
+
+![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=molxeuz&theme=radical&no-frame=true&margin-w=15)
+
+---
+
 ## 🚀 Proyectos destacados
 
 ### 1. **MoodScape**
