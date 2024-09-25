@@ -4,6 +4,12 @@
 
 ---
 
+## Mis estadísticas de lenguajes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxeuz&layout=compact&theme=radical)
+
+---
+
 ## 🚀 Proyectos destacados
 
 ### 1. **MoodScape**
