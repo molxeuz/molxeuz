@@ -4,7 +4,7 @@
 
 ---
 
-## Racha de contribuciones 
+## 🔥 Racha de contribuciones 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=molxeuz&theme=radical" alt="GitHub Streak"/>
@@ -12,13 +12,13 @@
 
 ---
 
-## Mis estadísticas de lenguajes
+## 💾 Mis estadísticas de lenguajes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molxeuz&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧾 Proyectos destacados
 
 ### 3. **Personal Curriculum Vitae**
 Una pagina web personal que se estara actualizando.
