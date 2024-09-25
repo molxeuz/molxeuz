@@ -20,11 +20,3 @@ Un proyecto innovador que busca ofrecer servicios tecnológicos únicos.
 Una pagina web personal que se estara actualizando.
 
 [![PersonalWebPage](https://img.shields.io/badge/GitHub-PersonalWebPage-purple?style=flat&logo=github)](https://github.com/molxeuz/PersonalCurriculumVitae)
-
----
-
-## 🎨 Animación de perfil
-
-![Animación de presentación](https://media.giphy.com/media/26xBzwFub2MOH5Uu8/giphy.gif)
-
----
