@@ -1,5 +1,4 @@
 <div align="center">
-### 📈 GitHub Stats & 🔥 Contribution Streak & 💾 Top Languages
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
