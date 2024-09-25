@@ -16,6 +16,11 @@ Un proyecto innovador que busca ofrecer servicios tecnológicos únicos.
 
 ![HPI](https://img.shields.io/badge/HPI-Innovación-blue)
 
+### 3. **Personal Curriculum Vitae**
+Una pagina web personal que se estara actualizando.
+
+![PersonalWebPage](https://github.com/molxeuz/PersonalCurriculumVitae)
+
 ---
 
 ## 🎨 Animación de perfil
