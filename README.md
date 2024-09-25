@@ -1,7 +1,3 @@
-# Hola, soy **Mateo** 👋
-
----
-
 ## 📈 Estadísticas de mi perfil
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=molxeuz&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -25,17 +21,5 @@ Un proyecto innovador que busca ofrecer servicios tecnológicos únicos.
 ## 🎨 Animación de perfil
 
 ![Animación de presentación](https://media.giphy.com/media/26xBzwFub2MOH5Uu8/giphy.gif)
-
----
-
-## 📫 Conecta conmigo
-
-- **GitHub:** [molxeuz](https://github.com/molxeuz)
-- **LinkedIn:** (www.linkedin.com/in/mateomolinag)
-- **Correo electrónico:** (Escribeme!)
-
----
-
-## 💬 Activo siempre
 
 ---
