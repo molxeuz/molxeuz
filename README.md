@@ -23,4 +23,4 @@ Una pagina web personal que se estara actualizando.
 
 ### 2. **Web Page Human Program interpreter**
 Una pagina web de proyectos que se estara actualizando.
-[![HPIWebPage](https://img.shields.io/badge/GitHub-PersonalWebPage-blue?style=flat&logo=github)](https://molxeuz.github.io/WebPage_HumanProgramInterpreter/)
+[![HPIWebPage](https://img.shields.io/badge/GitHub-PersonalWebPage-red?style=flat&logo=github)](https://molxeuz.github.io/WebPage_HumanProgramInterpreter/)
