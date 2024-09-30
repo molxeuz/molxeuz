@@ -28,6 +28,6 @@ Descubre una página web personal que sirve como un escaparate de habilidades, l
 ### 2. **Web Page Human Program Interpreter**
 Sumérgete en nuestra página web de proyectos, un espacio vibrante que también se actualizará regularmente. Aquí, cada clic te llevará más cerca de conocer nuestras iniciativas innovadoras y creativas.
 
-[![HPIWebPage](https://img.shields.io/badge/GitHub-HPIWebPage-red?style=flat&logo=github)](https://molxeuz.github.io/WebPage_HumanProgramInterpreter/)
+[![HPIWebPage](https://img.shields.io/badge/GitHub-HPIWebPage-red?style=flat&logo=github)](https://github.com/WebPage_HumanProgramInterpreter/)
 
 ---
