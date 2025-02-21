@@ -1,1 +1,1 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=molxeuz&color=blue)
+![molxeuz Banner](https://artrkl.com/blogs/news/baroque-v-rococo-art-whats-the-difference)
